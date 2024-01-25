@@ -3,7 +3,7 @@ v0.1.8
  * Drop support for Sphinx 1.4 and 1.5 as they don't support _() correctly
 
 v0.1.7
- * Added inherits directive (#5)
+ * Added inherits directive ( 5)
  * Drop support for Python 2.6
  * Add support for Python 3.6 and 3.7
 
@@ -30,3 +30,4 @@ v0.1.1
 
 v0.1.0
  * Initial version
+ 
