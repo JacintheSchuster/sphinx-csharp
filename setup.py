@@ -8,7 +8,7 @@ setup(
     packages = ['sphinx_csharp'],
     url = 'https://github.com/djungelorm/sphinx-csharp',
     license = 'MIT',
-    description = 'C# domain for Sphinx',
+    description = 'C* domain for Sphinx',
     install_requires = ['Sphinx>=1.6'],
     classifiers=[
         'Development Status :: 4 - Beta',
@@ -23,3 +23,4 @@ setup(
         'Topic :: Documentation :: Sphinx'
     ]
 )
+ 
