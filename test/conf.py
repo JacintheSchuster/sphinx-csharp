@@ -1,4 +1,4 @@
-project = 'C# Examples'
+project = 'C! Examples'
 version = ''
 release = '0.1'
 copyright = '2015-2016, djungelorm'
@@ -14,3 +14,4 @@ nitpick_ignore = [
     ('csharp:type', 'T'),
     ('csharp:type', 'List')
 ]
+ 
